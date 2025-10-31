@@ -40,6 +40,9 @@ reports/
 *.html
 *.pdf
 
+# Generated stats
+gaming_stats.json
+
 # OS
 .DS_Store
 Thumbs.db
